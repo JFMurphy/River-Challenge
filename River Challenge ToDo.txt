@@ -1,0 +1,37 @@
+Fixes and Additions.
+
+1.	Display what remains on a side when the user is at that side 									]
+1a.	Current code for this is temporary. The implementation for the 									|--- Done
+	home side needs to be modified.																	]
+
+2.	Add options for when the user gets the home side. 												]--- Done
+
+3.	Modify the instructions so that it gives a clear onjective.										]--- Done
+	eg objective is to get things from market side to home side.									]
+	
+4.	When the boat contains a passenger and the user chooses to go 									]
+	back from the home side there is no option to set down the currently							|--- Now irrelevant
+	held passenger.																					]
+	
+5.	Add option to quit at any time. 																]--- Done
+
+6.	After moving chicken when trying to move dog message says dog already moved. 					]--- Fixed.
+
+7.	Add more cases so users can type, in words, what they want to do. 								]--- No longer implementing
+
+8.	Make it so that when a user makes a choice, the choice they type in is based off the choices	]
+	they can see on screen. Eg. if the choices available to the user are as follows:				|
+	1. Chicken																						|
+	2. Corn																							| --- Done.
+	3. Go back																						|
+	The user can choose '1' and the program will select the chicken.								|
+	Currently, the choices shown and the input by user do not line up.								]
+8a.	Making choices so that the user ends up on the home side with no items there					]
+	means there are no choices no make on screen and if the user enters a number the 				| --- Done
+	program ends.																					]
+	
+9. User entering a choice that is not available on screen moves the game to the next side.			] --- Fixed
+
+10. Ask to play again after winning.																] --- Is this really needed?
+
+11. Get rid of 'Go Back' option.																	] --- Done
