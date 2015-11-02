@@ -7,4 +7,6 @@ In this version you are a farmer who has just been to the market and has bought 
 
 He has to get back across the river but his boat only has room for himself and one other passenger so he must figure out a way to get all three back across. Only he cannot leave his dog and the chicken when he takes the corn or else the dog will eat the chicken, and he cannot leave the chicken with the corn when he takes the dog or else the chicken will eat the dog.
 
+Source files are located in the src folder.
+
 I have added a .bat file that runs the application from the .jar. It is located in the River Challenge (executable) folder.
