@@ -9,4 +9,4 @@ He has to get back across the river but his boat only has room for himself and o
 
 Source files are located in the src folder.
 
-I have added a .bat file that runs the application from the .jar. It is located in the River Challenge (executable) folder.
+I have added a .bat file that runs the application from the .jar. It is located in the "River Challenge (executable)" folder.
